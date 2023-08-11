@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: woudan/nginx:v0.1.1
+          image: woudan/nginx:v0.1.2
           ports:
             - containerPort: 80
